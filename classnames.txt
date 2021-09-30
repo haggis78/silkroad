@@ -1,6 +1,6 @@
 Edit this file. To do so, click the pencil icon in the upper right.
 
-You will add your name below, which is how I will know that you have done so successfully.
+You will add your name below, which is one way I can tell that you have successfully edited the file.
 
 After you have added your name, scroll down to where you see "Commit new file". There will be a one-line field
 where you can add a short message, called a "commit message". ALWAYS USE THIS. Each time we modify a file, 
