@@ -1,0 +1,15 @@
+Edit this file. You will add your name below, which is how I will know that you have done so successfully.
+
+After you have added your name, scroll down to where you see "Commit new file". There will be a one-line field
+where you can add a short message, called a "commit message". ALWAYS USE THIS. Each time we modify a file, 
+we leave a little note explaining what we did and why. That is helpful a) to us, since we forget; b) to 
+our classmates, in case they need to know what you did; c) to future readers or other users of our code.
+
+In this case, your commit message should be your initials plus the message "Added my name".
+
+After you have entered your commit message, THIS TIME, leave the blue dot selecting "Commit directly to the 
+main branch", and then click "Commit".
+
+NAMES BELOW THIS LINE
+==================================
+Dr. Campbell
