@@ -2,18 +2,19 @@ List of articles
 
 1) Locations
 a. cities/settlements:
-Constantinople
-Chang'an (Xi'an)
-Dunhuang
-Turfan
+Constantinople NICK G.
+Chang'an (Xi'an) COLIN C.
+Dunhuang CONNOR C.
+Turfan MELISSA C.
 Kucha
-Karakorum (Qaraqorum) (BTW see new Smithsonian article!)
-Samarkand
-Beijing
+Karakorum (Qaraqorum) (BTW see new Smithsonian article!) IAN M.
+Samarkand KAITLYN P.
+Beijing COLE B.
+Oasis towns
 
 b. other human features:
-Yumen (Jade Gate)
-Great Wall of China
+Yumen (Jade Gate) CARISSA C.
+Great Wall of China BRADEN S.
 
 c. natural features:
 Taklamakan Desert
@@ -22,12 +23,17 @@ Gobi Desert
 Himalayas
 Tian Shan Mountains
 Oxus River
-Issyk-Kul (warm lake)
+Issyk-Kul (warm lake) ESTHER C.
 Lop Nur (salt lake)
 
 2) Peoples on the move
 Mongols
 Sogdians
+Turks
+Tatars
+Uighurs
+Tibetans
+Indians?
 Who are we missing?
 
 3) Trade goods and currencies
@@ -38,6 +44,7 @@ Ammonium chloride
 Bronze coins
 Glass items
 Jade
+Slaves
 What else?
 
 4) Technologies and know-how on the move
@@ -52,4 +59,5 @@ Judaism
 Buddhism
 Zoroastrianism
 Islam
-Taoism/Daoism
+Daoism
+Hinduism?
