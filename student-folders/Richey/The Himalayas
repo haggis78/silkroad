@@ -7,12 +7,10 @@
         <link rel="stylesheet" type="text/css" href="../../index.css"/>  
     </head> 
     <body> 
-        <h1>Article title here</h1>
-        <p>Here is some text.<a href="#1"><sup>[1]</sup></a></p>
-        <p>Here is some more text.<a href="#2"><sup>[2]</sup></a></p>
-        <img src="https://cdn.britannica.com/83/193183-050-A10F4603/Silk-Road.jpg" width="600" height="400"/> <!-- This is what an image link looks like if taken from the internet. --> 
-        <img src="../../images/800px-Map_of_Central_Asia_with_trade_routes_and_movements,_von_Richthofen.png" alt="von Richthofen's map of the Silk Roads"/> <!-- This is what an image link looks like
-            when the image file has been uploaded to the images folder in our GitHub repo.-->
+        <h1>The Himalayas</h1>
+        <p>No matter what age you are or what part of the world you come from, most likely you are familiar with the Himalayas. This mountain range contains some of the world’s highest summits, including the ever-famous Mount Everest, which is the worlds highest mountain above sea-level, (Whitman, 2020). This behemoth is breath-taking and terrifying at the same time. The length of the range goes farther than 1,490 miles, the area is over four-hundred twenty square miles, and the peak of Mount Everest reaches a man-defying height of 29,028 feet, (Whitman 2020). The mountain range consists of a wide variety of different climates, wildlife, and various other plant species depending on where you are in the vast region. <a href="#1"><sup>[1]</sup></a></p>
+        <p>Not only are the Himalayas diverse in wildlife and mountainous terrain, but the mountain range spans across five different countries. These nations include, Nepal, China, Pakistan, Bhutan, and India, (WorldAtlas, 2021). The Himalayas have both a rich history of the present and the past. The mountain range is translated from a Sanskrit word that means an “abode made of snow”, (WorldAtlas, 2021). The ancient mountain range has connections to the Silk Road right from the start just by its name.<a href="#2"><sup>[2]</sup></a></p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gurudongmar_lake_North_Sikkim.jpg/1024px-Gurudongmar_lake_North_Sikkim.jpg" width="600" height="400"/> <!-- This is what an image link looks like if taken from the internet. --> 
         <p>Here is some more text below the images.<a href="#3"><sup>[3]</sup></a></p>
 <hr/> <!--This is a "horizontal rule", a line below the page content, above the references.-->
         <p id="1">[1] This is the text of footnote one.</p>
