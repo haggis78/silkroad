@@ -1,0 +1,43 @@
+C. R. Chinoy
+John of Marignolli
+
+Google Sheets:
+https://docs.google.com/spreadsheets/d/11hUtvL363vAJGuqOhGl5SJNdqV7yS8IekLb070RDsIw/
+
+Main Source: 
+Cathay and the Way Thither, Being a Collection of Medieval Notices of China : Volume II
+Yule, Henry. London: Hakluyt Society, 1866.
+HathiTrust: https://catalog.hathitrust.org/Record/009027079
+
+Most recent available version of this is a 2010 reprint, among many others. These appear to be strictly reprints and not revised editions.
+(from PittCat: https://pitt.primo.exlibrisgroup.com/discovery/fulldisplay?docid=cdi_proquest_ebookcentral_EBC3002238&context=PC&vid=01PITT_INST:01PITT_INST&lang=en&search_scope=MyInst_and_CI&adaptor=Primo%20Central&tab=Everything&query=any,contains,cathay%20and%20the%20way%20thither%20%22marignolli%22&offset=0 )
+
+Additionally, a plaintext version is available: 
+https://depts.washington.edu/silkroad/texts/marignolli.html
+
+I will work from the HathiTrust version (using the scan image pagination, not the text pagination, because that is the easiest way to jump to locations in the text). Section V., p. 311-394 (#71-#254), covers Marignolli’s travels. The translation of Marignolli’s account begins on p. 355 (#95), with his departure from Avignon in Dec. 1338. The scope of his journey, from Avignon (1338) to Khanbaliq (1342) and returning to Avignon (1353), is sufficiently clear-cut as to require no further clarification of scope.
+
+Updates: 
+It turns out that the footnotes in this version were absolutely essential to place locations on the map, as enough scholarship had already been done to identify the places Marignolli describes with, at the least, names modern enough to be translated into present-day locations. However, the record of his travels in this publication leaves off with Marignolli still in Ceylon, on p#118, with the entire balance of the section on Marignolli consisting of various storytelling and anecdotes of both religion and experience. These do not provide further information on his itinerary except for a few very fragmentary mentions of places he may have visited in the Middle East.
+
+Additionally, discussion begins on p#81, in the introductory section about Marignolli, of the potential location of Marignolli’s visits to “Saba”, a land identified with the biblical Queen of Sheba, which is never made clear in his account of his journey. Apparently this is still a subject of scholarly uncertainty and I will continue to look into it.
+
+Take this quote directly from p#80:
+“Marignolli’s notices of his travels have no proper claim to the title of a narrative, and indeed the construction of a narrative out of them is a task something like that of raising a geological theory out of piecemeal observations of strata and the study of scattered organic remains.”
+
+Secondary Sources:
+https://en.wikipedia.org/wiki/Giovanni_de'_Marignolli
+Obviously not a source itself, but, keep the wiki link here and go pull the sources from it later.
+
+https://www.jstor.org/stable/20067703?seq=1#metadata_info_tab_contents
+“Giovanni de' Marignolli: An Italian Prelate at the Court of the South-East Asian Queen of Sheba”, Journal of Southeast Asian History, Vol. 9, No. 2 (Sep., 1968), pp. 325-341 (17 pages)
+
+Will read through this more thoroughly in regards to identifying Saba, as well as the introductory section in Yule as concerns Saba starting on p#81.
+
+Web Sources Used to Pin Down Coordinates:
+Any links used other than direct lookups of modern places on Wikipedia will be listed here, see notes in spreadsheet.
+•	https://en.wikipedia.org/wiki/Sarai_(city)
+•	https://en.wikipedia.org/wiki/Saray-J%C3%BCk
+•	https://en.wikipedia.org/wiki/Almaliq,_Xinjiang
+•	http://wikimapia.org/14651944
+•	Location of Zayton: https://www.jstor.org/stable/594987?seq=1#metadata_info_tab_contents
