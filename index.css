@@ -63,3 +63,9 @@ font-family: arial, helvetica, sans-serif;
     width: 100%;
     background-color: #70003D;
 }
+#travelerpic {
+    float: left;
+    height: 300px;
+    margin: 0 40px 0 0;
+    border: 8px solid #70003D;
+}
