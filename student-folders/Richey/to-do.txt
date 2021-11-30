@@ -1,0 +1,7 @@
+Ben, here is the to-do list for your traveler page:
+1) Enlarge map to same size as the others (we'll look at this in class tomorrow)
+2) Add route lines to your map
+3) Fix bibliography
+4) Add links to passages in the text. We'll talk about this in class on Wednesday, but for the moment, I'll note that an accessible electronic text is at https://archive.org/details/in.ernet.dli.2015.62617 .
+
+As a reminder, you're also working on an article now on the Christian Church of the East (aka Nestorians).
