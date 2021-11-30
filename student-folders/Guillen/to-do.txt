@@ -1,6 +1,6 @@
 Nick,
 Here's the to-do list on your traveler page:
-1) enlarge the map extent. (I'll talk you through this.) 
+1) enlarge the map to match the size others have on their pages. (I'll talk you through this.) 
 2) Complete and clean up the bibliography.
 3) Add links to the text: we'll talk about that on Wednesday.
 
