@@ -1,0 +1,8 @@
+Carissa, here are the things I'd like to see done on your traveler page:
+1) Complete and clean up bibliography
+2) Add route lines for the part of Polo's travel that you think is reasonably likely.
+3) The biggie: adding links to places in the text, so that people can click through from the map pins and go straight to the appropriate passage in Polo. I know that will be more challenging because you used a modern edition (as was right) and now you need to cross-reference that with an old edition. So let me point you in a helpful direction.
+
+You can find the etexts in html at https://www.gutenberg.org/cache/epub/10636/pg10636-images.html (vol. 1) and https://www.gutenberg.org/cache/epub/12410/pg12410-images.html (vol. 2). And I have good news. Within the HTML, the chapters are already tagged with id targets; so for example https://www.gutenberg.org/cache/epub/10636/pg10636-images.html#CHAPTER_Ip takes you straight to book 1, chapter 1. So if you can just link to the chapter number, that will be all you need. It's a lot of data points, though, and I'm aware of that.
+
+We still need your Yumen Gate article on the site, and now you have one on Judaism to do as well.
