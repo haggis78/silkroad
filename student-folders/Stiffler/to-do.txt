@@ -1,0 +1,9 @@
+Braden, here's your to-do list for your traveler project page:
+
+1) Add route lines, at least to the version that has the more route-like route.
+2) Your article text is pretty short. It needs, among other things, to explain about the two versions, that of John and that of Benedict. Also, you'll need to explain that users of the site need to click on the icon in the upper left corner of the map to be able to turn on the Benedict the Pole locations.
+3) Go back to your map, and change the color of the Benedict the Pole locations. If both are visible at once, it's helpful to be able to see which is which.
+4) Your bibliography is incomplete.
+5) You need to figure out what to do with your (0,0) locations that are showing up on the equator. If you can't solve the problem, then at least write an explanation on your page.
+
+As a reminder, you're also working on an article about Daoism.
