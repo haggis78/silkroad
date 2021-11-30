@@ -1,0 +1,5 @@
+Connor, here are the things I'd like you to do for your traveler page:
+1. Links to the passages in the source text
+2. I'd like you to attempt a timeline using the tool timeline.js. This can be dropped into your traveler page below the map, using an <iframe> element just like the one used for the map.
+
+You also have a new article on Zoroastrianism to be working on.
