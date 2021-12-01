@@ -8,11 +8,9 @@
     </head> 
     <body> 
         <h1>Nestorians</h1>
-        <p>Here is some text.<a href="#1"><sup>[1]</sup></a></p>
-        <p>Here is some more text.<a href="#2"><sup>[2]</sup></a></p>
-        <img src="https://cdn.britannica.com/83/193183-050-A10F4603/Silk-Road.jpg" width="600" height="400"/> <!-- This is what an image link looks like if taken from the internet. --> 
-        <img src="../../images/800px-Map_of_Central_Asia_with_trade_routes_and_movements,_von_Richthofen.png" alt="von Richthofen's map of the Silk Roads"/> <!-- This is what an image link looks like
-            when the image file has been uploaded to the images folder in our GitHub repo.-->
+        <p>Religion was commonly spread amongst the Silk Road. Islam, Buddhism, and Hinduism are all ideas that were embraced by multiple communities in the middle and far east. However, another religion was paving its way as well. Christianity, which is by far the largest religion today, was also on the move. Christianity has over 2 billion followers, all placed in different branches such as Catholicism or Protestantism, (TBS, 2021).<a href="#1"><sup>[1]</sup></a></p>
+        <p>	The Christian Church of the East was one of the many ideas being shared amongst the Silk Road. This denomination of Christianity was also referred to as Nestorianism, (Telling the Sogdian Story). This early eastern Church arose from conflicts, resulting in a denomination being based of Syriac Christian values, (Louis, 2013). The Nestorian Church also based its foundation off the beliefs and teaching of Nestorius, (Telling the Sogdian Story). Nestorius had different opinions when it came to the Holy Trinity that differed from mainstream Christianity. He believed that Christ on Earth and Christ in heaven were two separate beings, (Telling the Sogdian Story).Ultimately his teachings were confronted and condemned at the Council of Ephesus, where Nestorius was accused of heresy, (New Advent).<a href="#2"><sup>[2]</sup></a></p>
+        
         <p>Here is some more text below the images.<a href="#3"><sup>[3]</sup></a></p>
 <hr/> <!--This is a "horizontal rule", a line below the page content, above the references.-->
         <p id="1">[1] This is the text of footnote one.</p>
