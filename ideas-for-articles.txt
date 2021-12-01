@@ -9,8 +9,8 @@ Educational resources: other projects (Dr. Campbell is working on this)
 1) Locations
 a. cities/settlements:
 Constantinople NICK G. [DONE]
-Chang'an (Xi'an) COLIN C. [NOT DONE]
-Dunhuang CONNOR C. [NOT DONE]
+Chang'an (Xi'an) COLIN C. [DONE]
+Dunhuang CONNOR C. [DONE]
 Turfan MELISSA C. [DONE]
 Kucha
 Karakorum (Qaraqorum) (BTW see new Smithsonian article!) IAN M. [DONE]
@@ -31,7 +31,7 @@ Himalayas Benjamin Richey [DONE]
 Tian Shan Mountains
 Oxus River CARISSA C. [DONE]
 Issyk-Kul (warm lake) ESTHER C. [NOT DONE]
-Lop Nur (salt lake) 
+Lop Nur (salt lake) ESTHER C. [NOT DONE]
 
 2) Peoples on the move
 Mongols ESTHER C. [NOT DONE]
@@ -49,13 +49,13 @@ Who are we missing?
 3) Trade goods and currencies
 Silk MARCUS H. [DONE]
 Horses MARCUS H. [DONE]
-Livestock (Cattle, Goats, Sheep, Camels) IAN M.
+Livestock (Cattle, Goats, Sheep, Camels) IAN M. [DONE]
 Paper (and papermaking) Kaitlyn P. [NOT DONE]
-Ammonium chloride KAITLYN P.
+Ammonium chloride KAITLYN P. [DONE]
 Bronze coins CONNOR C. [NOT DONE]
 Glass items COLIN C. [DONE]
 Jade COLE B.
-Slaves MARCUS H.
+Slaves MARCUS H. [DONE]
 Weapons (Swords, Spears, Bows)
 What else?
 
@@ -63,7 +63,7 @@ What else?
 Silk making Chris Dutrow [DONE]
 Christian Church of the East BENJAMIN R.
 Roman Catholicism (all those friars and emissaries)
-Judaism CARISSA C.
+Judaism CARISSA C. [DONE]
 Buddhism MELISSA C. [NOT DONE]
 Zoroastrianism CONNOR C.
 Islam Benjamin Richey [DONE]
