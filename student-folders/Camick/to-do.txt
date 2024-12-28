@@ -1,0 +1,5 @@
+Esther, here are the things I'd like you to do on your "traveler" page:
+1) The article text is not finished.
+2) The bibliography needs to be finished and cleaned up.
+
+At this moment I'm not seeing all of your other articles in the Git repo either. These are to be for Issyk-Kul and Mongols. I think you should have gotten another to do on Monday 11/29 but I'm not finding it on our list.

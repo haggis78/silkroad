@@ -1,0 +1,6 @@
+Cole, here are the things I'd like you to do for your traveler page:
+1. Route lines on the map Done
+2. Links to the passages in the source text
+3. Clean up bibliography Done
+4. I'd like you to attempt a timeline using the tool timeline.js. This can be dropped into your traveler page below the map, using an <iframe> element just like the one used for the map. Attempted was not successful
+As a reminder, you are also working on an article on jade as a trade good. Done

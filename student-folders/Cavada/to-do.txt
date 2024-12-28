@@ -1,0 +1,5 @@
+Colin, for your traveler page, there are two things I'd like you to do.
+1) Complete and clean up the bibliography.
+2) Your map isn't functioning quite correctly: when you click on pins, the box contains very little information. See if you can figure out why -- check it against your spreadsheet.
+
+You also have an article on Hinduism to be working on.

@@ -1,2 +1,5 @@
-# silkroad
-This is the re-launched repository of Dr. Campbell's Silk Road class project from 2021.
+# testing123
+This is the temporary replacement/mirror repo for our Silk Road project.
+
+The website is at https://haggis78.github.io/testing123/ .
+
