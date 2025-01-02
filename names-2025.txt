@@ -1,0 +1,7 @@
+Student names 2025
+Add your name at the bottom of the list. 
+After typing in your name, click the green "Commit changes..." button in the upper right. 
+This will pop up another window with another green "Commit changes..." button. Click that too.
+
+Names:
+Dr. Campbell
