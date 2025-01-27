@@ -5,7 +5,7 @@ After typing in your name, click the green "Commit changes..." button in the upp
 This will pop up another window with another green "Commit changes..." button. Click that too.
 
 Names:
-Dr. Campbell
+Dr. William Campbell
 Yarema Sobol
 Gia Salvio
 Anthony Lewis
