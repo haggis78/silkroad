@@ -116,7 +116,9 @@ Travelers: Benjamin of Tudela
 Religions: Daoism
 
 ARI S.
-TBD
+Travelers: Qiu Chuji
+Peoples: Uighurs
+Human geo: Beijing
 
 JOCELYN A.
 TBD
