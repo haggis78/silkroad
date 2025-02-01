@@ -100,7 +100,7 @@ Religions: Buddhism
 
 TARA J.
 Traveler: Xuanzang
-Trade goods: glass
+Human geo: The Yumen Pass
 
 ANTHONY L. 
 Travelers: Marco Polo
